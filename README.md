@@ -20,3 +20,11 @@ In summary, regression predicts continuous values while classification predicts 
 
 UNSUPERVISED LEARNING
 Unsupervised learning in machine learning is a technique where algorithms analyze and cluster unlabeled datasets to identify patterns and information without human intervention.
+
+In unsupervised learning, data only comes with inputs x, but no output labels y. Algorithm has to find structure in the data.
+
+-- Types of Unsupervised learning --
+1. Clustering
+2. Anomaly detection
+3. Dimensionality reduction - compress data using fewer numbers
+
