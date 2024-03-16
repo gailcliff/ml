@@ -16,7 +16,7 @@ Classification algorithms divide datasets into discrete classes based on various
 Example: Email spam detection where emails are categorized as spam or not based on training data.
 Types of Classification Algorithms: Decision Tree Classification, K-Nearest Neighbors, Logistic Regression, Naïve Bayes, Random Forest Classification, Support Vector Machines.
 
-In summary, regression predicts continuous values while classification predicts discrete outcomes based on different machine learning problems and datasets.
+In summary, regression predicts continuous values while classification predicts discrete outcomes based on different machine learning problems and datasets. In regression, there are infinitely many possible outputs.
 
 UNSUPERVISED LEARNING
 Unsupervised learning in machine learning is a technique where algorithms analyze and cluster unlabeled datasets to identify patterns and information without human intervention.
